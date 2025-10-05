@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Costa - Full Stack Developer
+# Olá! 👋 Eu sou Cauã Costa - Full Stack Developer
 
 ## 🚀 Sobre Mim
 
@@ -8,7 +8,7 @@ Desenvolvedor Full Stack apaixonado por criar soluções completas e funcionais.
 - 🌱 Sempre aprendendo e evoluindo minhas habilidades
 - 💻 Foco em criar aplicações robustas e escaláveis
 - 👯 Aberto a colaborações e novos desafios
-- 📫 Entre em contato: **[seu email]**
+- 📫 Entre em contato: **[cauadevcosta@gmail.com]**
 
 ## 🛠️ Stack de Tecnologias
 
@@ -22,13 +22,10 @@ Desenvolvedor Full Stack apaixonado por criar soluções completas e funcionais.
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
 ### Database & Tools
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
 
